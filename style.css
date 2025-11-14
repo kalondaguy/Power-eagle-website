@@ -1,0 +1,8 @@
+.centered-img{
+  display:grid;
+  justify-content:center;
+  align-items:center;
+  width:200px;
+  height:auto;
+  margin:0 auto;
+}
